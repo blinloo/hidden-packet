@@ -1,0 +1,2887 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2019-02-17T20:31:01.518+00:00
+  initializedAtString: 2019-02-17T20:25:48.384+00:00
+  entries:
+  - path: Hidden Packet\.collabignore
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\.collabignore
+    projectPath: .collabignore
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Assembly-CSharp.csproj
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Hidden Packet.sln
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Hidden
+      Packet.sln
+    projectPath: Hidden Packet.sln
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\AnnotationManager
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\AnnotationManager
+    projectPath: Library\AnnotationManager
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\assetDatabase3
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\Collab\CollabSnapshot_c7943cab-383e-4a11-89bb-ce2558f627e8.txt
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\Collab\CollabSnapshot_c7943cab-383e-4a11-89bb-ce2558f627e8.txt
+    projectPath: Library\Collab\CollabSnapshot_c7943cab-383e-4a11-89bb-ce2558f627e8.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\CurrentLayout.dwlt
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\EditorInstance.json
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\expandedItems
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\00\00000000000000003000000000000000
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\00\00000000000000003000000000000000
+    projectPath: Library\metadata\00\00000000000000003000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\00\00000000000000004000000000000000
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\00\00000000000000004000000000000000
+    projectPath: Library\metadata\00\00000000000000004000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\00\00000000000000009000000000000000
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\00\00000000000000009000000000000000
+    projectPath: Library\metadata\00\00000000000000009000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\00\0000000000000000a100000000000000
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\00\0000000000000000a100000000000000
+    projectPath: Library\metadata\00\0000000000000000a100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\00\0000000000000000b000000000000000
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\00\0000000000000000b000000000000000
+    projectPath: Library\metadata\00\0000000000000000b000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\00\00856a8c92614c04696141d80e446b35
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\00\00856a8c92614c04696141d80e446b35
+    projectPath: Library\metadata\00\00856a8c92614c04696141d80e446b35
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\00\00856a8c92614c04696141d80e446b35.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\00\00856a8c92614c04696141d80e446b35.info
+    projectPath: Library\metadata\00\00856a8c92614c04696141d80e446b35.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\01\012e4ae93b3636f4dbbe7309cf66229f
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\01\012e4ae93b3636f4dbbe7309cf66229f
+    projectPath: Library\metadata\01\012e4ae93b3636f4dbbe7309cf66229f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\01\012e4ae93b3636f4dbbe7309cf66229f.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\01\012e4ae93b3636f4dbbe7309cf66229f.info
+    projectPath: Library\metadata\01\012e4ae93b3636f4dbbe7309cf66229f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\02\0208e2b3367f61e49819056912058692
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\02\0208e2b3367f61e49819056912058692
+    projectPath: Library\metadata\02\0208e2b3367f61e49819056912058692
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\02\0208e2b3367f61e49819056912058692.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\02\0208e2b3367f61e49819056912058692.info
+    projectPath: Library\metadata\02\0208e2b3367f61e49819056912058692.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\02\02aca4cf160abb94594bc12432cbd7a6
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\02\02aca4cf160abb94594bc12432cbd7a6
+    projectPath: Library\metadata\02\02aca4cf160abb94594bc12432cbd7a6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\02\02aca4cf160abb94594bc12432cbd7a6.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\02\02aca4cf160abb94594bc12432cbd7a6.info
+    projectPath: Library\metadata\02\02aca4cf160abb94594bc12432cbd7a6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\03\0369d91f483c5244685fa58593036412
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\03\0369d91f483c5244685fa58593036412
+    projectPath: Library\metadata\03\0369d91f483c5244685fa58593036412
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\03\0369d91f483c5244685fa58593036412.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\03\0369d91f483c5244685fa58593036412.info
+    projectPath: Library\metadata\03\0369d91f483c5244685fa58593036412.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\03\038f19fac879a874589b44dda9068783
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\03\038f19fac879a874589b44dda9068783
+    projectPath: Library\metadata\03\038f19fac879a874589b44dda9068783
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\03\038f19fac879a874589b44dda9068783.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\03\038f19fac879a874589b44dda9068783.info
+    projectPath: Library\metadata\03\038f19fac879a874589b44dda9068783.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\03\03e72a7cd34222843967b507a9322dee
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\03\03e72a7cd34222843967b507a9322dee
+    projectPath: Library\metadata\03\03e72a7cd34222843967b507a9322dee
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\03\03e72a7cd34222843967b507a9322dee.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\03\03e72a7cd34222843967b507a9322dee.info
+    projectPath: Library\metadata\03\03e72a7cd34222843967b507a9322dee.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\05\0527afbef1d611d409ee96e14614c036
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\05\0527afbef1d611d409ee96e14614c036
+    projectPath: Library\metadata\05\0527afbef1d611d409ee96e14614c036
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\05\0527afbef1d611d409ee96e14614c036.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\05\0527afbef1d611d409ee96e14614c036.info
+    projectPath: Library\metadata\05\0527afbef1d611d409ee96e14614c036.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\07\07e480cbcd8bb9d4896bfd83da4c8db1
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\07\07e480cbcd8bb9d4896bfd83da4c8db1
+    projectPath: Library\metadata\07\07e480cbcd8bb9d4896bfd83da4c8db1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\07\07e480cbcd8bb9d4896bfd83da4c8db1.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\07\07e480cbcd8bb9d4896bfd83da4c8db1.info
+    projectPath: Library\metadata\07\07e480cbcd8bb9d4896bfd83da4c8db1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\08\085c097ea184fa942a67c26915c92bee
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\08\085c097ea184fa942a67c26915c92bee
+    projectPath: Library\metadata\08\085c097ea184fa942a67c26915c92bee
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\08\085c097ea184fa942a67c26915c92bee.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\08\085c097ea184fa942a67c26915c92bee.info
+    projectPath: Library\metadata\08\085c097ea184fa942a67c26915c92bee.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\08\08804cba688352a4698c6b882e91305d
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\08\08804cba688352a4698c6b882e91305d
+    projectPath: Library\metadata\08\08804cba688352a4698c6b882e91305d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\08\08804cba688352a4698c6b882e91305d.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\08\08804cba688352a4698c6b882e91305d.info
+    projectPath: Library\metadata\08\08804cba688352a4698c6b882e91305d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\08\08d73c48b45a2814eb19d89a84226702
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\08\08d73c48b45a2814eb19d89a84226702
+    projectPath: Library\metadata\08\08d73c48b45a2814eb19d89a84226702
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\08\08d73c48b45a2814eb19d89a84226702.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\08\08d73c48b45a2814eb19d89a84226702.info
+    projectPath: Library\metadata\08\08d73c48b45a2814eb19d89a84226702.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\0f\0f1d8db79daee20498b39f78c386df83
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\0f\0f1d8db79daee20498b39f78c386df83
+    projectPath: Library\metadata\0f\0f1d8db79daee20498b39f78c386df83
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\0f\0f1d8db79daee20498b39f78c386df83.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\0f\0f1d8db79daee20498b39f78c386df83.info
+    projectPath: Library\metadata\0f\0f1d8db79daee20498b39f78c386df83.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\0f\0fb0d781a8e9ca349ab6df3e195899b9
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\0f\0fb0d781a8e9ca349ab6df3e195899b9
+    projectPath: Library\metadata\0f\0fb0d781a8e9ca349ab6df3e195899b9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\0f\0fb0d781a8e9ca349ab6df3e195899b9.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\0f\0fb0d781a8e9ca349ab6df3e195899b9.info
+    projectPath: Library\metadata\0f\0fb0d781a8e9ca349ab6df3e195899b9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\0f\0fff57194988a344d92bb8cb7e44ed10
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\0f\0fff57194988a344d92bb8cb7e44ed10
+    projectPath: Library\metadata\0f\0fff57194988a344d92bb8cb7e44ed10
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\0f\0fff57194988a344d92bb8cb7e44ed10.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\0f\0fff57194988a344d92bb8cb7e44ed10.info
+    projectPath: Library\metadata\0f\0fff57194988a344d92bb8cb7e44ed10.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\10\10d0db18a489c304da95aaba040e980c
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\10\10d0db18a489c304da95aaba040e980c
+    projectPath: Library\metadata\10\10d0db18a489c304da95aaba040e980c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\10\10d0db18a489c304da95aaba040e980c.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\10\10d0db18a489c304da95aaba040e980c.info
+    projectPath: Library\metadata\10\10d0db18a489c304da95aaba040e980c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\15\1557e50145b1e7f40a2069019a10deb0
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\15\1557e50145b1e7f40a2069019a10deb0
+    projectPath: Library\metadata\15\1557e50145b1e7f40a2069019a10deb0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\15\1557e50145b1e7f40a2069019a10deb0.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\15\1557e50145b1e7f40a2069019a10deb0.info
+    projectPath: Library\metadata\15\1557e50145b1e7f40a2069019a10deb0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\16\167b2619226a79f43ad75025037a26af
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\16\167b2619226a79f43ad75025037a26af
+    projectPath: Library\metadata\16\167b2619226a79f43ad75025037a26af
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\16\167b2619226a79f43ad75025037a26af.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\16\167b2619226a79f43ad75025037a26af.info
+    projectPath: Library\metadata\16\167b2619226a79f43ad75025037a26af.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\16\168e2f455651cca4fa0c904cdfe09d01
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\16\168e2f455651cca4fa0c904cdfe09d01
+    projectPath: Library\metadata\16\168e2f455651cca4fa0c904cdfe09d01
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\16\168e2f455651cca4fa0c904cdfe09d01.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\16\168e2f455651cca4fa0c904cdfe09d01.info
+    projectPath: Library\metadata\16\168e2f455651cca4fa0c904cdfe09d01.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\16\16bb28e64cd1d9341aa59abdd8f7ca95
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\16\16bb28e64cd1d9341aa59abdd8f7ca95
+    projectPath: Library\metadata\16\16bb28e64cd1d9341aa59abdd8f7ca95
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\16\16bb28e64cd1d9341aa59abdd8f7ca95.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\16\16bb28e64cd1d9341aa59abdd8f7ca95.info
+    projectPath: Library\metadata\16\16bb28e64cd1d9341aa59abdd8f7ca95.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\16\16e37ef8c70f2f04a9a62a20a460132a
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\16\16e37ef8c70f2f04a9a62a20a460132a
+    projectPath: Library\metadata\16\16e37ef8c70f2f04a9a62a20a460132a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\16\16e37ef8c70f2f04a9a62a20a460132a.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\16\16e37ef8c70f2f04a9a62a20a460132a.info
+    projectPath: Library\metadata\16\16e37ef8c70f2f04a9a62a20a460132a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\18\18bb97e03fa118642b9314909760f3eb
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\18\18bb97e03fa118642b9314909760f3eb
+    projectPath: Library\metadata\18\18bb97e03fa118642b9314909760f3eb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\18\18bb97e03fa118642b9314909760f3eb.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\18\18bb97e03fa118642b9314909760f3eb.info
+    projectPath: Library\metadata\18\18bb97e03fa118642b9314909760f3eb.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\1b\1b7d4af4bdda31f4dad159e1f851e413
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\1b\1b7d4af4bdda31f4dad159e1f851e413
+    projectPath: Library\metadata\1b\1b7d4af4bdda31f4dad159e1f851e413
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\1b\1b7d4af4bdda31f4dad159e1f851e413.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\1b\1b7d4af4bdda31f4dad159e1f851e413.info
+    projectPath: Library\metadata\1b\1b7d4af4bdda31f4dad159e1f851e413.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\1e\1e11c4088490f2d48b31371291424b0a
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\1e\1e11c4088490f2d48b31371291424b0a
+    projectPath: Library\metadata\1e\1e11c4088490f2d48b31371291424b0a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\1e\1e11c4088490f2d48b31371291424b0a.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\1e\1e11c4088490f2d48b31371291424b0a.info
+    projectPath: Library\metadata\1e\1e11c4088490f2d48b31371291424b0a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\21\2145de2544d39454b94e976d81adeab2
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\21\2145de2544d39454b94e976d81adeab2
+    projectPath: Library\metadata\21\2145de2544d39454b94e976d81adeab2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\21\2145de2544d39454b94e976d81adeab2.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\21\2145de2544d39454b94e976d81adeab2.info
+    projectPath: Library\metadata\21\2145de2544d39454b94e976d81adeab2.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\21\21e11c190234c384aa555f6006141edf
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\21\21e11c190234c384aa555f6006141edf
+    projectPath: Library\metadata\21\21e11c190234c384aa555f6006141edf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\21\21e11c190234c384aa555f6006141edf.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\21\21e11c190234c384aa555f6006141edf.info
+    projectPath: Library\metadata\21\21e11c190234c384aa555f6006141edf.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\23\234bd0960d744db429f1d7ccbf90bc78
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\23\234bd0960d744db429f1d7ccbf90bc78
+    projectPath: Library\metadata\23\234bd0960d744db429f1d7ccbf90bc78
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\23\234bd0960d744db429f1d7ccbf90bc78.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\23\234bd0960d744db429f1d7ccbf90bc78.info
+    projectPath: Library\metadata\23\234bd0960d744db429f1d7ccbf90bc78.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\27\27dbbd6440667c946b2439cd34acda76
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\27\27dbbd6440667c946b2439cd34acda76
+    projectPath: Library\metadata\27\27dbbd6440667c946b2439cd34acda76
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\27\27dbbd6440667c946b2439cd34acda76.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\27\27dbbd6440667c946b2439cd34acda76.info
+    projectPath: Library\metadata\27\27dbbd6440667c946b2439cd34acda76.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\29\29a91f1d27435e644b79096bf7609204
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\29\29a91f1d27435e644b79096bf7609204
+    projectPath: Library\metadata\29\29a91f1d27435e644b79096bf7609204
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\29\29a91f1d27435e644b79096bf7609204.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\29\29a91f1d27435e644b79096bf7609204.info
+    projectPath: Library\metadata\29\29a91f1d27435e644b79096bf7609204.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\2a\2adffc5cfc68a3b4fb1c21558443c03e
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\2a\2adffc5cfc68a3b4fb1c21558443c03e
+    projectPath: Library\metadata\2a\2adffc5cfc68a3b4fb1c21558443c03e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\2a\2adffc5cfc68a3b4fb1c21558443c03e.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\2a\2adffc5cfc68a3b4fb1c21558443c03e.info
+    projectPath: Library\metadata\2a\2adffc5cfc68a3b4fb1c21558443c03e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\2b\2b8904ad04e8d0e428d9036d47d4c23f
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\2b\2b8904ad04e8d0e428d9036d47d4c23f
+    projectPath: Library\metadata\2b\2b8904ad04e8d0e428d9036d47d4c23f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\2b\2b8904ad04e8d0e428d9036d47d4c23f.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\2b\2b8904ad04e8d0e428d9036d47d4c23f.info
+    projectPath: Library\metadata\2b\2b8904ad04e8d0e428d9036d47d4c23f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\2c\2cacd7d0ab78e2445a3d37049132ad7f
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\2c\2cacd7d0ab78e2445a3d37049132ad7f
+    projectPath: Library\metadata\2c\2cacd7d0ab78e2445a3d37049132ad7f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\2c\2cacd7d0ab78e2445a3d37049132ad7f.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\2c\2cacd7d0ab78e2445a3d37049132ad7f.info
+    projectPath: Library\metadata\2c\2cacd7d0ab78e2445a3d37049132ad7f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\2c\2ccd64e1d7cb2e34d83e1a245dc8ba29
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\2c\2ccd64e1d7cb2e34d83e1a245dc8ba29
+    projectPath: Library\metadata\2c\2ccd64e1d7cb2e34d83e1a245dc8ba29
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\2c\2ccd64e1d7cb2e34d83e1a245dc8ba29.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\2c\2ccd64e1d7cb2e34d83e1a245dc8ba29.info
+    projectPath: Library\metadata\2c\2ccd64e1d7cb2e34d83e1a245dc8ba29.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\2e\2e618dfceb72d7143822ae5a2ed2c07a
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\2e\2e618dfceb72d7143822ae5a2ed2c07a
+    projectPath: Library\metadata\2e\2e618dfceb72d7143822ae5a2ed2c07a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\2e\2e618dfceb72d7143822ae5a2ed2c07a.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\2e\2e618dfceb72d7143822ae5a2ed2c07a.info
+    projectPath: Library\metadata\2e\2e618dfceb72d7143822ae5a2ed2c07a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\2e\2ec4fb59abd32e64989e97495a971840
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\2e\2ec4fb59abd32e64989e97495a971840
+    projectPath: Library\metadata\2e\2ec4fb59abd32e64989e97495a971840
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\2e\2ec4fb59abd32e64989e97495a971840.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\2e\2ec4fb59abd32e64989e97495a971840.info
+    projectPath: Library\metadata\2e\2ec4fb59abd32e64989e97495a971840.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\36\36835c6bdf83cf94e8d25ccc6e2a83a1
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\36\36835c6bdf83cf94e8d25ccc6e2a83a1
+    projectPath: Library\metadata\36\36835c6bdf83cf94e8d25ccc6e2a83a1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\36\36835c6bdf83cf94e8d25ccc6e2a83a1.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\36\36835c6bdf83cf94e8d25ccc6e2a83a1.info
+    projectPath: Library\metadata\36\36835c6bdf83cf94e8d25ccc6e2a83a1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\39\39b8d1dddbc8410409f93d0d3a8129a4
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\39\39b8d1dddbc8410409f93d0d3a8129a4
+    projectPath: Library\metadata\39\39b8d1dddbc8410409f93d0d3a8129a4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\39\39b8d1dddbc8410409f93d0d3a8129a4.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\39\39b8d1dddbc8410409f93d0d3a8129a4.info
+    projectPath: Library\metadata\39\39b8d1dddbc8410409f93d0d3a8129a4.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\3a\3a02a77f1121b944aabb2399c70f4bf0
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\3a\3a02a77f1121b944aabb2399c70f4bf0
+    projectPath: Library\metadata\3a\3a02a77f1121b944aabb2399c70f4bf0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\3a\3a02a77f1121b944aabb2399c70f4bf0.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\3a\3a02a77f1121b944aabb2399c70f4bf0.info
+    projectPath: Library\metadata\3a\3a02a77f1121b944aabb2399c70f4bf0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    projectPath: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\3c\3c4cba3bb0ed9e24e81489d25a1f08c7
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\3c\3c4cba3bb0ed9e24e81489d25a1f08c7
+    projectPath: Library\metadata\3c\3c4cba3bb0ed9e24e81489d25a1f08c7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\3c\3c4cba3bb0ed9e24e81489d25a1f08c7.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\3c\3c4cba3bb0ed9e24e81489d25a1f08c7.info
+    projectPath: Library\metadata\3c\3c4cba3bb0ed9e24e81489d25a1f08c7.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\3d\3da51daa232ca8f4185e3897280d6c36
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\3d\3da51daa232ca8f4185e3897280d6c36
+    projectPath: Library\metadata\3d\3da51daa232ca8f4185e3897280d6c36
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\3d\3da51daa232ca8f4185e3897280d6c36.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\3d\3da51daa232ca8f4185e3897280d6c36.info
+    projectPath: Library\metadata\3d\3da51daa232ca8f4185e3897280d6c36.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\3e\3e21f9fbbd091a44ebcb679c71f668d9
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\3e\3e21f9fbbd091a44ebcb679c71f668d9
+    projectPath: Library\metadata\3e\3e21f9fbbd091a44ebcb679c71f668d9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\3e\3e21f9fbbd091a44ebcb679c71f668d9.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\3e\3e21f9fbbd091a44ebcb679c71f668d9.info
+    projectPath: Library\metadata\3e\3e21f9fbbd091a44ebcb679c71f668d9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\40\405b9b51bb344a128608d968297df79c
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\40\405b9b51bb344a128608d968297df79c
+    projectPath: Library\metadata\40\405b9b51bb344a128608d968297df79c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    projectPath: Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\42\428114b7aa1ce3a448025e0b04c14b0a
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\42\428114b7aa1ce3a448025e0b04c14b0a
+    projectPath: Library\metadata\42\428114b7aa1ce3a448025e0b04c14b0a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\42\428114b7aa1ce3a448025e0b04c14b0a.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\42\428114b7aa1ce3a448025e0b04c14b0a.info
+    projectPath: Library\metadata\42\428114b7aa1ce3a448025e0b04c14b0a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\42\42851d1fcd704a1408da4c97b32fcc0b
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\42\42851d1fcd704a1408da4c97b32fcc0b
+    projectPath: Library\metadata\42\42851d1fcd704a1408da4c97b32fcc0b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\42\42851d1fcd704a1408da4c97b32fcc0b.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\42\42851d1fcd704a1408da4c97b32fcc0b.info
+    projectPath: Library\metadata\42\42851d1fcd704a1408da4c97b32fcc0b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\47\47c9c7c1b79dae44d80272a6eda41dbd
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\47\47c9c7c1b79dae44d80272a6eda41dbd
+    projectPath: Library\metadata\47\47c9c7c1b79dae44d80272a6eda41dbd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\47\47c9c7c1b79dae44d80272a6eda41dbd.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\47\47c9c7c1b79dae44d80272a6eda41dbd.info
+    projectPath: Library\metadata\47\47c9c7c1b79dae44d80272a6eda41dbd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\48\488bf10fd0ea6d44f8ff93b83c05decc
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\48\488bf10fd0ea6d44f8ff93b83c05decc
+    projectPath: Library\metadata\48\488bf10fd0ea6d44f8ff93b83c05decc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\48\488bf10fd0ea6d44f8ff93b83c05decc.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\48\488bf10fd0ea6d44f8ff93b83c05decc.info
+    projectPath: Library\metadata\48\488bf10fd0ea6d44f8ff93b83c05decc.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\48\48f28c577f9fb794e8f7b473dd187125
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\48\48f28c577f9fb794e8f7b473dd187125
+    projectPath: Library\metadata\48\48f28c577f9fb794e8f7b473dd187125
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\48\48f28c577f9fb794e8f7b473dd187125.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\48\48f28c577f9fb794e8f7b473dd187125.info
+    projectPath: Library\metadata\48\48f28c577f9fb794e8f7b473dd187125.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\49\49ee7ab7e29575c499bddaac085cf862
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\49\49ee7ab7e29575c499bddaac085cf862
+    projectPath: Library\metadata\49\49ee7ab7e29575c499bddaac085cf862
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\49\49ee7ab7e29575c499bddaac085cf862.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\49\49ee7ab7e29575c499bddaac085cf862.info
+    projectPath: Library\metadata\49\49ee7ab7e29575c499bddaac085cf862.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    projectPath: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    projectPath: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\4b\4bcac15b1a9fde443b5fcbd6e0c89329
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\4b\4bcac15b1a9fde443b5fcbd6e0c89329
+    projectPath: Library\metadata\4b\4bcac15b1a9fde443b5fcbd6e0c89329
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\4b\4bcac15b1a9fde443b5fcbd6e0c89329.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\4b\4bcac15b1a9fde443b5fcbd6e0c89329.info
+    projectPath: Library\metadata\4b\4bcac15b1a9fde443b5fcbd6e0c89329.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\4c\4c0b0a64f6856704b9c8cab9b7b2ce00
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\4c\4c0b0a64f6856704b9c8cab9b7b2ce00
+    projectPath: Library\metadata\4c\4c0b0a64f6856704b9c8cab9b7b2ce00
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\4c\4c0b0a64f6856704b9c8cab9b7b2ce00.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\4c\4c0b0a64f6856704b9c8cab9b7b2ce00.info
+    projectPath: Library\metadata\4c\4c0b0a64f6856704b9c8cab9b7b2ce00.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\4c\4c7088b7de05e7c48b22e04f4447614b
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\4c\4c7088b7de05e7c48b22e04f4447614b
+    projectPath: Library\metadata\4c\4c7088b7de05e7c48b22e04f4447614b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\4c\4c7088b7de05e7c48b22e04f4447614b.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\4c\4c7088b7de05e7c48b22e04f4447614b.info
+    projectPath: Library\metadata\4c\4c7088b7de05e7c48b22e04f4447614b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\4e\4e0c5d24c82d89a45b0aa7bd361b302b
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\4e\4e0c5d24c82d89a45b0aa7bd361b302b
+    projectPath: Library\metadata\4e\4e0c5d24c82d89a45b0aa7bd361b302b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\4e\4e0c5d24c82d89a45b0aa7bd361b302b.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\4e\4e0c5d24c82d89a45b0aa7bd361b302b.info
+    projectPath: Library\metadata\4e\4e0c5d24c82d89a45b0aa7bd361b302b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\4e\4ea7f57b5d008f24db516278d9f405ee
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\4e\4ea7f57b5d008f24db516278d9f405ee
+    projectPath: Library\metadata\4e\4ea7f57b5d008f24db516278d9f405ee
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\4e\4ea7f57b5d008f24db516278d9f405ee.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\4e\4ea7f57b5d008f24db516278d9f405ee.info
+    projectPath: Library\metadata\4e\4ea7f57b5d008f24db516278d9f405ee.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\52\5261ea93b3b48ec44a462c07ed21c499
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\52\5261ea93b3b48ec44a462c07ed21c499
+    projectPath: Library\metadata\52\5261ea93b3b48ec44a462c07ed21c499
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\52\5261ea93b3b48ec44a462c07ed21c499.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\52\5261ea93b3b48ec44a462c07ed21c499.info
+    projectPath: Library\metadata\52\5261ea93b3b48ec44a462c07ed21c499.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\52\526606124b86b444492db0e15ae1088d
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\52\526606124b86b444492db0e15ae1088d
+    projectPath: Library\metadata\52\526606124b86b444492db0e15ae1088d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\52\526606124b86b444492db0e15ae1088d.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\52\526606124b86b444492db0e15ae1088d.info
+    projectPath: Library\metadata\52\526606124b86b444492db0e15ae1088d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\52\5282a4af36a650d4e9191c875a8e3a3d
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\52\5282a4af36a650d4e9191c875a8e3a3d
+    projectPath: Library\metadata\52\5282a4af36a650d4e9191c875a8e3a3d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\52\5282a4af36a650d4e9191c875a8e3a3d.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\52\5282a4af36a650d4e9191c875a8e3a3d.info
+    projectPath: Library\metadata\52\5282a4af36a650d4e9191c875a8e3a3d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    projectPath: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\55\55cf2eb29eab3b740a24b19d47120c99
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\55\55cf2eb29eab3b740a24b19d47120c99
+    projectPath: Library\metadata\55\55cf2eb29eab3b740a24b19d47120c99
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\55\55cf2eb29eab3b740a24b19d47120c99.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\55\55cf2eb29eab3b740a24b19d47120c99.info
+    projectPath: Library\metadata\55\55cf2eb29eab3b740a24b19d47120c99.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\57\57b64ec435b40b146b2e401a9a5a9379
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\57\57b64ec435b40b146b2e401a9a5a9379
+    projectPath: Library\metadata\57\57b64ec435b40b146b2e401a9a5a9379
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\57\57b64ec435b40b146b2e401a9a5a9379.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\57\57b64ec435b40b146b2e401a9a5a9379.info
+    projectPath: Library\metadata\57\57b64ec435b40b146b2e401a9a5a9379.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\58\583e25fb4ecb199468b7d1d490884e24
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\58\583e25fb4ecb199468b7d1d490884e24
+    projectPath: Library\metadata\58\583e25fb4ecb199468b7d1d490884e24
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\58\583e25fb4ecb199468b7d1d490884e24.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\58\583e25fb4ecb199468b7d1d490884e24.info
+    projectPath: Library\metadata\58\583e25fb4ecb199468b7d1d490884e24.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\58\583f20b074156124fb7f8ef0414f23cf
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\58\583f20b074156124fb7f8ef0414f23cf
+    projectPath: Library\metadata\58\583f20b074156124fb7f8ef0414f23cf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\58\583f20b074156124fb7f8ef0414f23cf.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\58\583f20b074156124fb7f8ef0414f23cf.info
+    projectPath: Library\metadata\58\583f20b074156124fb7f8ef0414f23cf.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\59\59196835f471c50499139d0484361458
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\59\59196835f471c50499139d0484361458
+    projectPath: Library\metadata\59\59196835f471c50499139d0484361458
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\59\59196835f471c50499139d0484361458.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\59\59196835f471c50499139d0484361458.info
+    projectPath: Library\metadata\59\59196835f471c50499139d0484361458.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\5a\5adc1b4b9d587264aaf2d742a05165c4
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\5a\5adc1b4b9d587264aaf2d742a05165c4
+    projectPath: Library\metadata\5a\5adc1b4b9d587264aaf2d742a05165c4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\5a\5adc1b4b9d587264aaf2d742a05165c4.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\5a\5adc1b4b9d587264aaf2d742a05165c4.info
+    projectPath: Library\metadata\5a\5adc1b4b9d587264aaf2d742a05165c4.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\5c\5c666aac03cddb2478cee8a48e91742b
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\5c\5c666aac03cddb2478cee8a48e91742b
+    projectPath: Library\metadata\5c\5c666aac03cddb2478cee8a48e91742b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\5c\5c666aac03cddb2478cee8a48e91742b.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\5c\5c666aac03cddb2478cee8a48e91742b.info
+    projectPath: Library\metadata\5c\5c666aac03cddb2478cee8a48e91742b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\5d\5d9573ee37a4f0744ad41e8f533f36ac
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\5d\5d9573ee37a4f0744ad41e8f533f36ac
+    projectPath: Library\metadata\5d\5d9573ee37a4f0744ad41e8f533f36ac
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\5d\5d9573ee37a4f0744ad41e8f533f36ac.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\5d\5d9573ee37a4f0744ad41e8f533f36ac.info
+    projectPath: Library\metadata\5d\5d9573ee37a4f0744ad41e8f533f36ac.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    projectPath: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\5f\5f46ba6b229f4e04b8cbef94e58fcdc3
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\5f\5f46ba6b229f4e04b8cbef94e58fcdc3
+    projectPath: Library\metadata\5f\5f46ba6b229f4e04b8cbef94e58fcdc3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\5f\5f46ba6b229f4e04b8cbef94e58fcdc3.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\5f\5f46ba6b229f4e04b8cbef94e58fcdc3.info
+    projectPath: Library\metadata\5f\5f46ba6b229f4e04b8cbef94e58fcdc3.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\61\61790de048c5dea45a4626c4839824f0
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\61\61790de048c5dea45a4626c4839824f0
+    projectPath: Library\metadata\61\61790de048c5dea45a4626c4839824f0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\61\61790de048c5dea45a4626c4839824f0.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\61\61790de048c5dea45a4626c4839824f0.info
+    projectPath: Library\metadata\61\61790de048c5dea45a4626c4839824f0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\62\62f65f030c348144c89843a926029658
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\62\62f65f030c348144c89843a926029658
+    projectPath: Library\metadata\62\62f65f030c348144c89843a926029658
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\62\62f65f030c348144c89843a926029658.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\62\62f65f030c348144c89843a926029658.info
+    projectPath: Library\metadata\62\62f65f030c348144c89843a926029658.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\67\6703b82b2daadb046aca732874a30ac6
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\67\6703b82b2daadb046aca732874a30ac6
+    projectPath: Library\metadata\67\6703b82b2daadb046aca732874a30ac6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\67\6703b82b2daadb046aca732874a30ac6.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\67\6703b82b2daadb046aca732874a30ac6.info
+    projectPath: Library\metadata\67\6703b82b2daadb046aca732874a30ac6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\67\67462be70ee1bba4eb43c77af161d135
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\67\67462be70ee1bba4eb43c77af161d135
+    projectPath: Library\metadata\67\67462be70ee1bba4eb43c77af161d135
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\67\67462be70ee1bba4eb43c77af161d135.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\67\67462be70ee1bba4eb43c77af161d135.info
+    projectPath: Library\metadata\67\67462be70ee1bba4eb43c77af161d135.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\67\67660e8bf6596e94390b6b3279c54fdd
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\67\67660e8bf6596e94390b6b3279c54fdd
+    projectPath: Library\metadata\67\67660e8bf6596e94390b6b3279c54fdd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\67\67660e8bf6596e94390b6b3279c54fdd.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\67\67660e8bf6596e94390b6b3279c54fdd.info
+    projectPath: Library\metadata\67\67660e8bf6596e94390b6b3279c54fdd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\67\67aa0dae32d4efe478291f057f0132f5
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\67\67aa0dae32d4efe478291f057f0132f5
+    projectPath: Library\metadata\67\67aa0dae32d4efe478291f057f0132f5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\67\67aa0dae32d4efe478291f057f0132f5.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\67\67aa0dae32d4efe478291f057f0132f5.info
+    projectPath: Library\metadata\67\67aa0dae32d4efe478291f057f0132f5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    projectPath: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\6c\6c0b129375b79f2469cfb94b33e5e43d
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\6c\6c0b129375b79f2469cfb94b33e5e43d
+    projectPath: Library\metadata\6c\6c0b129375b79f2469cfb94b33e5e43d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\6c\6c0b129375b79f2469cfb94b33e5e43d.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\6c\6c0b129375b79f2469cfb94b33e5e43d.info
+    projectPath: Library\metadata\6c\6c0b129375b79f2469cfb94b33e5e43d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\6e\6e233e0175f1504488663c51a18aaffc
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\6e\6e233e0175f1504488663c51a18aaffc
+    projectPath: Library\metadata\6e\6e233e0175f1504488663c51a18aaffc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\6e\6e233e0175f1504488663c51a18aaffc.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\6e\6e233e0175f1504488663c51a18aaffc.info
+    projectPath: Library\metadata\6e\6e233e0175f1504488663c51a18aaffc.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\6e\6ea54008d708fdb419241feea8fcd858
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\6e\6ea54008d708fdb419241feea8fcd858
+    projectPath: Library\metadata\6e\6ea54008d708fdb419241feea8fcd858
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\6e\6ea54008d708fdb419241feea8fcd858.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\6e\6ea54008d708fdb419241feea8fcd858.info
+    projectPath: Library\metadata\6e\6ea54008d708fdb419241feea8fcd858.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\70\70195ef441e402846879b72bef1f4387
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\70\70195ef441e402846879b72bef1f4387
+    projectPath: Library\metadata\70\70195ef441e402846879b72bef1f4387
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\70\70195ef441e402846879b72bef1f4387.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\70\70195ef441e402846879b72bef1f4387.info
+    projectPath: Library\metadata\70\70195ef441e402846879b72bef1f4387.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\72\7279a64385dba2f4390acac5a5e2de72
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\72\7279a64385dba2f4390acac5a5e2de72
+    projectPath: Library\metadata\72\7279a64385dba2f4390acac5a5e2de72
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\72\7279a64385dba2f4390acac5a5e2de72.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\72\7279a64385dba2f4390acac5a5e2de72.info
+    projectPath: Library\metadata\72\7279a64385dba2f4390acac5a5e2de72.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\74\74bdb10bb6b0fb94bbe7e67389a2ca06
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\74\74bdb10bb6b0fb94bbe7e67389a2ca06
+    projectPath: Library\metadata\74\74bdb10bb6b0fb94bbe7e67389a2ca06
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\74\74bdb10bb6b0fb94bbe7e67389a2ca06.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\74\74bdb10bb6b0fb94bbe7e67389a2ca06.info
+    projectPath: Library\metadata\74\74bdb10bb6b0fb94bbe7e67389a2ca06.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    projectPath: Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\79\798c73d292551fa46bde1cab35bcb19b
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\79\798c73d292551fa46bde1cab35bcb19b
+    projectPath: Library\metadata\79\798c73d292551fa46bde1cab35bcb19b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\79\798c73d292551fa46bde1cab35bcb19b.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\79\798c73d292551fa46bde1cab35bcb19b.info
+    projectPath: Library\metadata\79\798c73d292551fa46bde1cab35bcb19b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\7a\7a0156abcc67ad641a31290419537cae
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\7a\7a0156abcc67ad641a31290419537cae
+    projectPath: Library\metadata\7a\7a0156abcc67ad641a31290419537cae
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\7a\7a0156abcc67ad641a31290419537cae.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\7a\7a0156abcc67ad641a31290419537cae.info
+    projectPath: Library\metadata\7a\7a0156abcc67ad641a31290419537cae.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\7b\7b3791954f6779741b90d9b9c42a4e8c
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\7b\7b3791954f6779741b90d9b9c42a4e8c
+    projectPath: Library\metadata\7b\7b3791954f6779741b90d9b9c42a4e8c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\7b\7b3791954f6779741b90d9b9c42a4e8c.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\7b\7b3791954f6779741b90d9b9c42a4e8c.info
+    projectPath: Library\metadata\7b\7b3791954f6779741b90d9b9c42a4e8c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\7b\7bc4022683ff35a4ab768dde95c12f4a
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\7b\7bc4022683ff35a4ab768dde95c12f4a
+    projectPath: Library\metadata\7b\7bc4022683ff35a4ab768dde95c12f4a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\7b\7bc4022683ff35a4ab768dde95c12f4a.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\7b\7bc4022683ff35a4ab768dde95c12f4a.info
+    projectPath: Library\metadata\7b\7bc4022683ff35a4ab768dde95c12f4a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\7d\7df350c1a39c9a843a499ec9d4f65e37
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\7d\7df350c1a39c9a843a499ec9d4f65e37
+    projectPath: Library\metadata\7d\7df350c1a39c9a843a499ec9d4f65e37
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\7d\7df350c1a39c9a843a499ec9d4f65e37.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\7d\7df350c1a39c9a843a499ec9d4f65e37.info
+    projectPath: Library\metadata\7d\7df350c1a39c9a843a499ec9d4f65e37.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\7f\7f55e2703f612e444838e4834b473833
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\7f\7f55e2703f612e444838e4834b473833
+    projectPath: Library\metadata\7f\7f55e2703f612e444838e4834b473833
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\7f\7f55e2703f612e444838e4834b473833.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\7f\7f55e2703f612e444838e4834b473833.info
+    projectPath: Library\metadata\7f\7f55e2703f612e444838e4834b473833.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\7f\7f9e9dd97ca8973498cfbe355ad366cb
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\7f\7f9e9dd97ca8973498cfbe355ad366cb
+    projectPath: Library\metadata\7f\7f9e9dd97ca8973498cfbe355ad366cb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\7f\7f9e9dd97ca8973498cfbe355ad366cb.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\7f\7f9e9dd97ca8973498cfbe355ad366cb.info
+    projectPath: Library\metadata\7f\7f9e9dd97ca8973498cfbe355ad366cb.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\7f\7fbd882d526701d459098b0fda318a56
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\7f\7fbd882d526701d459098b0fda318a56
+    projectPath: Library\metadata\7f\7fbd882d526701d459098b0fda318a56
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\7f\7fbd882d526701d459098b0fda318a56.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\7f\7fbd882d526701d459098b0fda318a56.info
+    projectPath: Library\metadata\7f\7fbd882d526701d459098b0fda318a56.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\7f\7fd5920c27872a94cbeee91cb07a1623
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\7f\7fd5920c27872a94cbeee91cb07a1623
+    projectPath: Library\metadata\7f\7fd5920c27872a94cbeee91cb07a1623
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\7f\7fd5920c27872a94cbeee91cb07a1623.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\7f\7fd5920c27872a94cbeee91cb07a1623.info
+    projectPath: Library\metadata\7f\7fd5920c27872a94cbeee91cb07a1623.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    projectPath: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\80\80d0d0deafc3c324fb00cd19ff5c5641
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\80\80d0d0deafc3c324fb00cd19ff5c5641
+    projectPath: Library\metadata\80\80d0d0deafc3c324fb00cd19ff5c5641
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\80\80d0d0deafc3c324fb00cd19ff5c5641.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\80\80d0d0deafc3c324fb00cd19ff5c5641.info
+    projectPath: Library\metadata\80\80d0d0deafc3c324fb00cd19ff5c5641.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\82\826644d6610977a429dc822ea678c0b5
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\82\826644d6610977a429dc822ea678c0b5
+    projectPath: Library\metadata\82\826644d6610977a429dc822ea678c0b5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\82\826644d6610977a429dc822ea678c0b5.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\82\826644d6610977a429dc822ea678c0b5.info
+    projectPath: Library\metadata\82\826644d6610977a429dc822ea678c0b5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    projectPath: Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\84\84c562d5825095e479382f82e978f5ae
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\84\84c562d5825095e479382f82e978f5ae
+    projectPath: Library\metadata\84\84c562d5825095e479382f82e978f5ae
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\84\84c562d5825095e479382f82e978f5ae.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\84\84c562d5825095e479382f82e978f5ae.info
+    projectPath: Library\metadata\84\84c562d5825095e479382f82e978f5ae.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\85\8500aea91e69e92499d93328bc767510
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\85\8500aea91e69e92499d93328bc767510
+    projectPath: Library\metadata\85\8500aea91e69e92499d93328bc767510
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\85\8500aea91e69e92499d93328bc767510.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\85\8500aea91e69e92499d93328bc767510.info
+    projectPath: Library\metadata\85\8500aea91e69e92499d93328bc767510.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\85\8549a0de5cdd0784293c537bb143bff6
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\85\8549a0de5cdd0784293c537bb143bff6
+    projectPath: Library\metadata\85\8549a0de5cdd0784293c537bb143bff6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\85\8549a0de5cdd0784293c537bb143bff6.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\85\8549a0de5cdd0784293c537bb143bff6.info
+    projectPath: Library\metadata\85\8549a0de5cdd0784293c537bb143bff6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\86\86c8138a44c95b64a8b1de7c7478a60b
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\86\86c8138a44c95b64a8b1de7c7478a60b
+    projectPath: Library\metadata\86\86c8138a44c95b64a8b1de7c7478a60b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\86\86c8138a44c95b64a8b1de7c7478a60b.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\86\86c8138a44c95b64a8b1de7c7478a60b.info
+    projectPath: Library\metadata\86\86c8138a44c95b64a8b1de7c7478a60b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\86\86d0500c57e1f60469fbdf7b913c9e7b
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\86\86d0500c57e1f60469fbdf7b913c9e7b
+    projectPath: Library\metadata\86\86d0500c57e1f60469fbdf7b913c9e7b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\86\86d0500c57e1f60469fbdf7b913c9e7b.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\86\86d0500c57e1f60469fbdf7b913c9e7b.info
+    projectPath: Library\metadata\86\86d0500c57e1f60469fbdf7b913c9e7b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    projectPath: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\87\876f0aa4983d2734f805688678350d7a
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\87\876f0aa4983d2734f805688678350d7a
+    projectPath: Library\metadata\87\876f0aa4983d2734f805688678350d7a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\87\876f0aa4983d2734f805688678350d7a.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\87\876f0aa4983d2734f805688678350d7a.info
+    projectPath: Library\metadata\87\876f0aa4983d2734f805688678350d7a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\87\877ef3585573ce44eab899298be23158
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\87\877ef3585573ce44eab899298be23158
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\87\87d720faa37005c08600090e04d8c739
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\87\87d720faa37005c08600090e04d8c739
+    projectPath: Library\metadata\87\87d720faa37005c08600090e04d8c739
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\89\89854dead543fa54889c78063fe43b9d
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\89\89854dead543fa54889c78063fe43b9d
+    projectPath: Library\metadata\89\89854dead543fa54889c78063fe43b9d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\89\89854dead543fa54889c78063fe43b9d.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\89\89854dead543fa54889c78063fe43b9d.info
+    projectPath: Library\metadata\89\89854dead543fa54889c78063fe43b9d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\8a\8a06c9a356694154cb82c0b8cd8bec39
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\8a\8a06c9a356694154cb82c0b8cd8bec39
+    projectPath: Library\metadata\8a\8a06c9a356694154cb82c0b8cd8bec39
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\8a\8a06c9a356694154cb82c0b8cd8bec39.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\8a\8a06c9a356694154cb82c0b8cd8bec39.info
+    projectPath: Library\metadata\8a\8a06c9a356694154cb82c0b8cd8bec39.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\8c\8ce11882ea0f9864886482bbd12c7ecb
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\8c\8ce11882ea0f9864886482bbd12c7ecb
+    projectPath: Library\metadata\8c\8ce11882ea0f9864886482bbd12c7ecb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\8c\8ce11882ea0f9864886482bbd12c7ecb.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\8c\8ce11882ea0f9864886482bbd12c7ecb.info
+    projectPath: Library\metadata\8c\8ce11882ea0f9864886482bbd12c7ecb.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\8d\8dbb5ac7d7418ab48a6953b909f7f447
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\8d\8dbb5ac7d7418ab48a6953b909f7f447
+    projectPath: Library\metadata\8d\8dbb5ac7d7418ab48a6953b909f7f447
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\8d\8dbb5ac7d7418ab48a6953b909f7f447.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\8d\8dbb5ac7d7418ab48a6953b909f7f447.info
+    projectPath: Library\metadata\8d\8dbb5ac7d7418ab48a6953b909f7f447.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\8e\8e3724f6f040b2b41a82150fbb63ffea
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\8e\8e3724f6f040b2b41a82150fbb63ffea
+    projectPath: Library\metadata\8e\8e3724f6f040b2b41a82150fbb63ffea
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\8e\8e3724f6f040b2b41a82150fbb63ffea.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\8e\8e3724f6f040b2b41a82150fbb63ffea.info
+    projectPath: Library\metadata\8e\8e3724f6f040b2b41a82150fbb63ffea.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\8f\8f3e56693f8ebaf43a5e3ef6073a52eb
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\8f\8f3e56693f8ebaf43a5e3ef6073a52eb
+    projectPath: Library\metadata\8f\8f3e56693f8ebaf43a5e3ef6073a52eb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\8f\8f3e56693f8ebaf43a5e3ef6073a52eb.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\8f\8f3e56693f8ebaf43a5e3ef6073a52eb.info
+    projectPath: Library\metadata\8f\8f3e56693f8ebaf43a5e3ef6073a52eb.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\8f\8fbc945a90105144895adec26715cb08
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\8f\8fbc945a90105144895adec26715cb08
+    projectPath: Library\metadata\8f\8fbc945a90105144895adec26715cb08
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\8f\8fbc945a90105144895adec26715cb08.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\8f\8fbc945a90105144895adec26715cb08.info
+    projectPath: Library\metadata\8f\8fbc945a90105144895adec26715cb08.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\90\9000eb85a6dd00a4aa5fe39761b1a68c
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\90\9000eb85a6dd00a4aa5fe39761b1a68c
+    projectPath: Library\metadata\90\9000eb85a6dd00a4aa5fe39761b1a68c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\90\9000eb85a6dd00a4aa5fe39761b1a68c.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\90\9000eb85a6dd00a4aa5fe39761b1a68c.info
+    projectPath: Library\metadata\90\9000eb85a6dd00a4aa5fe39761b1a68c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\90\906d7ed0de56eae4d859c93cdb4e03f9
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\90\906d7ed0de56eae4d859c93cdb4e03f9
+    projectPath: Library\metadata\90\906d7ed0de56eae4d859c93cdb4e03f9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\90\906d7ed0de56eae4d859c93cdb4e03f9.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\90\906d7ed0de56eae4d859c93cdb4e03f9.info
+    projectPath: Library\metadata\90\906d7ed0de56eae4d859c93cdb4e03f9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\93\93866895902ebda4c850c0e16035d52b
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\93\93866895902ebda4c850c0e16035d52b
+    projectPath: Library\metadata\93\93866895902ebda4c850c0e16035d52b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\93\93866895902ebda4c850c0e16035d52b.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\93\93866895902ebda4c850c0e16035d52b.info
+    projectPath: Library\metadata\93\93866895902ebda4c850c0e16035d52b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\94\941d74d20d114424598eeb4f8ebd4bbd
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\94\941d74d20d114424598eeb4f8ebd4bbd
+    projectPath: Library\metadata\94\941d74d20d114424598eeb4f8ebd4bbd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\94\941d74d20d114424598eeb4f8ebd4bbd.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\94\941d74d20d114424598eeb4f8ebd4bbd.info
+    projectPath: Library\metadata\94\941d74d20d114424598eeb4f8ebd4bbd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\94\942f2c6e4be0b6544af8d44fdb886c19
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\94\942f2c6e4be0b6544af8d44fdb886c19
+    projectPath: Library\metadata\94\942f2c6e4be0b6544af8d44fdb886c19
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\94\942f2c6e4be0b6544af8d44fdb886c19.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\94\942f2c6e4be0b6544af8d44fdb886c19.info
+    projectPath: Library\metadata\94\942f2c6e4be0b6544af8d44fdb886c19.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\94\94efdff79a732514d9c1a66981d8b804
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\94\94efdff79a732514d9c1a66981d8b804
+    projectPath: Library\metadata\94\94efdff79a732514d9c1a66981d8b804
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\94\94efdff79a732514d9c1a66981d8b804.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\94\94efdff79a732514d9c1a66981d8b804.info
+    projectPath: Library\metadata\94\94efdff79a732514d9c1a66981d8b804.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\95\95d674f6f3b59b644986ab3583c2e13a
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\95\95d674f6f3b59b644986ab3583c2e13a
+    projectPath: Library\metadata\95\95d674f6f3b59b644986ab3583c2e13a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\95\95d674f6f3b59b644986ab3583c2e13a.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\95\95d674f6f3b59b644986ab3583c2e13a.info
+    projectPath: Library\metadata\95\95d674f6f3b59b644986ab3583c2e13a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\99\993b4256e0104404a86f97ff76df9ff2
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\99\993b4256e0104404a86f97ff76df9ff2
+    projectPath: Library\metadata\99\993b4256e0104404a86f97ff76df9ff2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\99\993b4256e0104404a86f97ff76df9ff2.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\99\993b4256e0104404a86f97ff76df9ff2.info
+    projectPath: Library\metadata\99\993b4256e0104404a86f97ff76df9ff2.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\9a\9a44dd3455cd07c4a94f128e8612d7cc
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\9a\9a44dd3455cd07c4a94f128e8612d7cc
+    projectPath: Library\metadata\9a\9a44dd3455cd07c4a94f128e8612d7cc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\9a\9a44dd3455cd07c4a94f128e8612d7cc.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\9a\9a44dd3455cd07c4a94f128e8612d7cc.info
+    projectPath: Library\metadata\9a\9a44dd3455cd07c4a94f128e8612d7cc.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\9d\9de8270d3f07ea143850b27aba0ec89c
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\9d\9de8270d3f07ea143850b27aba0ec89c
+    projectPath: Library\metadata\9d\9de8270d3f07ea143850b27aba0ec89c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\9d\9de8270d3f07ea143850b27aba0ec89c.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\9d\9de8270d3f07ea143850b27aba0ec89c.info
+    projectPath: Library\metadata\9d\9de8270d3f07ea143850b27aba0ec89c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\9e\9e57e17db7967a341bdde0ae97ee544a
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\9e\9e57e17db7967a341bdde0ae97ee544a
+    projectPath: Library\metadata\9e\9e57e17db7967a341bdde0ae97ee544a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\9e\9e57e17db7967a341bdde0ae97ee544a.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\9e\9e57e17db7967a341bdde0ae97ee544a.info
+    projectPath: Library\metadata\9e\9e57e17db7967a341bdde0ae97ee544a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\9e\9e78e811c38cc2c4ba395de38f769f82
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\9e\9e78e811c38cc2c4ba395de38f769f82
+    projectPath: Library\metadata\9e\9e78e811c38cc2c4ba395de38f769f82
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\9e\9e78e811c38cc2c4ba395de38f769f82.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\9e\9e78e811c38cc2c4ba395de38f769f82.info
+    projectPath: Library\metadata\9e\9e78e811c38cc2c4ba395de38f769f82.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\9f\9f3adefd3ca718047ad7ad78b8af470c
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\9f\9f3adefd3ca718047ad7ad78b8af470c
+    projectPath: Library\metadata\9f\9f3adefd3ca718047ad7ad78b8af470c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\9f\9f3adefd3ca718047ad7ad78b8af470c.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\9f\9f3adefd3ca718047ad7ad78b8af470c.info
+    projectPath: Library\metadata\9f\9f3adefd3ca718047ad7ad78b8af470c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\a0\a00121781d9d5c942ab63d985212f5b8
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\a0\a00121781d9d5c942ab63d985212f5b8
+    projectPath: Library\metadata\a0\a00121781d9d5c942ab63d985212f5b8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\a0\a00121781d9d5c942ab63d985212f5b8.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\a0\a00121781d9d5c942ab63d985212f5b8.info
+    projectPath: Library\metadata\a0\a00121781d9d5c942ab63d985212f5b8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\a1\a1f35d2cf7e313d40abd050bb2bc9af0
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\a1\a1f35d2cf7e313d40abd050bb2bc9af0
+    projectPath: Library\metadata\a1\a1f35d2cf7e313d40abd050bb2bc9af0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\a1\a1f35d2cf7e313d40abd050bb2bc9af0.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\a1\a1f35d2cf7e313d40abd050bb2bc9af0.info
+    projectPath: Library\metadata\a1\a1f35d2cf7e313d40abd050bb2bc9af0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\a3\a3cb7ff706618274680d96168d16750c
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\a3\a3cb7ff706618274680d96168d16750c
+    projectPath: Library\metadata\a3\a3cb7ff706618274680d96168d16750c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\a3\a3cb7ff706618274680d96168d16750c.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\a3\a3cb7ff706618274680d96168d16750c.info
+    projectPath: Library\metadata\a3\a3cb7ff706618274680d96168d16750c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\a8\a82ef4808256a9d48ad22fb70df6ac6a
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\a8\a82ef4808256a9d48ad22fb70df6ac6a
+    projectPath: Library\metadata\a8\a82ef4808256a9d48ad22fb70df6ac6a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\a8\a82ef4808256a9d48ad22fb70df6ac6a.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\a8\a82ef4808256a9d48ad22fb70df6ac6a.info
+    projectPath: Library\metadata\a8\a82ef4808256a9d48ad22fb70df6ac6a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\a8\a8b476d9c224d774eb7e0905c053da52
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\a8\a8b476d9c224d774eb7e0905c053da52
+    projectPath: Library\metadata\a8\a8b476d9c224d774eb7e0905c053da52
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\a8\a8b476d9c224d774eb7e0905c053da52.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\a8\a8b476d9c224d774eb7e0905c053da52.info
+    projectPath: Library\metadata\a8\a8b476d9c224d774eb7e0905c053da52.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ab\ab1266ca75bf3f54294cc759ef9d646b
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ab\ab1266ca75bf3f54294cc759ef9d646b
+    projectPath: Library\metadata\ab\ab1266ca75bf3f54294cc759ef9d646b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ab\ab1266ca75bf3f54294cc759ef9d646b.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ab\ab1266ca75bf3f54294cc759ef9d646b.info
+    projectPath: Library\metadata\ab\ab1266ca75bf3f54294cc759ef9d646b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ab\ab858d3572a726440867e33dae8785b7
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ab\ab858d3572a726440867e33dae8785b7
+    projectPath: Library\metadata\ab\ab858d3572a726440867e33dae8785b7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ab\ab858d3572a726440867e33dae8785b7.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ab\ab858d3572a726440867e33dae8785b7.info
+    projectPath: Library\metadata\ab\ab858d3572a726440867e33dae8785b7.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ae\aea5235938a2e1240a88058d0a00cabb
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ae\aea5235938a2e1240a88058d0a00cabb
+    projectPath: Library\metadata\ae\aea5235938a2e1240a88058d0a00cabb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ae\aea5235938a2e1240a88058d0a00cabb.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ae\aea5235938a2e1240a88058d0a00cabb.info
+    projectPath: Library\metadata\ae\aea5235938a2e1240a88058d0a00cabb.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\af\af3eaba6ea70180409341ff0651d35ee
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\af\af3eaba6ea70180409341ff0651d35ee
+    projectPath: Library\metadata\af\af3eaba6ea70180409341ff0651d35ee
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\af\af3eaba6ea70180409341ff0651d35ee.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\af\af3eaba6ea70180409341ff0651d35ee.info
+    projectPath: Library\metadata\af\af3eaba6ea70180409341ff0651d35ee.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\af\afa83359b714e6949a559af374dd1521
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\af\afa83359b714e6949a559af374dd1521
+    projectPath: Library\metadata\af\afa83359b714e6949a559af374dd1521
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\af\afa83359b714e6949a559af374dd1521.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\af\afa83359b714e6949a559af374dd1521.info
+    projectPath: Library\metadata\af\afa83359b714e6949a559af374dd1521.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\b5\b50446d308d84b64c8c8971ffaf7924b
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\b5\b50446d308d84b64c8c8971ffaf7924b
+    projectPath: Library\metadata\b5\b50446d308d84b64c8c8971ffaf7924b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\b5\b50446d308d84b64c8c8971ffaf7924b.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\b5\b50446d308d84b64c8c8971ffaf7924b.info
+    projectPath: Library\metadata\b5\b50446d308d84b64c8c8971ffaf7924b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\b5\b5c0be7e908129348a0db360aba82bda
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\b5\b5c0be7e908129348a0db360aba82bda
+    projectPath: Library\metadata\b5\b5c0be7e908129348a0db360aba82bda
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\b5\b5c0be7e908129348a0db360aba82bda.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\b5\b5c0be7e908129348a0db360aba82bda.info
+    projectPath: Library\metadata\b5\b5c0be7e908129348a0db360aba82bda.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\b5\b5da970776034f77a070d99423d68791
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\b5\b5da970776034f77a070d99423d68791
+    projectPath: Library\metadata\b5\b5da970776034f77a070d99423d68791
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\b7\b71e358e2d7803f488928631ba0f4281
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\b7\b71e358e2d7803f488928631ba0f4281
+    projectPath: Library\metadata\b7\b71e358e2d7803f488928631ba0f4281
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\b7\b71e358e2d7803f488928631ba0f4281.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\b7\b71e358e2d7803f488928631ba0f4281.info
+    projectPath: Library\metadata\b7\b71e358e2d7803f488928631ba0f4281.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\be\be45a53f2a132d544a08279fc3bb026c
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\be\be45a53f2a132d544a08279fc3bb026c
+    projectPath: Library\metadata\be\be45a53f2a132d544a08279fc3bb026c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\be\be45a53f2a132d544a08279fc3bb026c.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\be\be45a53f2a132d544a08279fc3bb026c.info
+    projectPath: Library\metadata\be\be45a53f2a132d544a08279fc3bb026c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\bf\bf2bc092cc8c9ff45b69a6a5004126f5
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\bf\bf2bc092cc8c9ff45b69a6a5004126f5
+    projectPath: Library\metadata\bf\bf2bc092cc8c9ff45b69a6a5004126f5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\bf\bf2bc092cc8c9ff45b69a6a5004126f5.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\bf\bf2bc092cc8c9ff45b69a6a5004126f5.info
+    projectPath: Library\metadata\bf\bf2bc092cc8c9ff45b69a6a5004126f5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\c4\c4c1324bdcdd7fb4abb8f4e4135e564a
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\c4\c4c1324bdcdd7fb4abb8f4e4135e564a
+    projectPath: Library\metadata\c4\c4c1324bdcdd7fb4abb8f4e4135e564a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\c4\c4c1324bdcdd7fb4abb8f4e4135e564a.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\c4\c4c1324bdcdd7fb4abb8f4e4135e564a.info
+    projectPath: Library\metadata\c4\c4c1324bdcdd7fb4abb8f4e4135e564a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\c5\c5051378946c7a0448694d53c996a4e3
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\c5\c5051378946c7a0448694d53c996a4e3
+    projectPath: Library\metadata\c5\c5051378946c7a0448694d53c996a4e3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\c5\c5051378946c7a0448694d53c996a4e3.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\c5\c5051378946c7a0448694d53c996a4e3.info
+    projectPath: Library\metadata\c5\c5051378946c7a0448694d53c996a4e3.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\c5\c556fe99a21b27f41af1dc6153541ca9
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\c5\c556fe99a21b27f41af1dc6153541ca9
+    projectPath: Library\metadata\c5\c556fe99a21b27f41af1dc6153541ca9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\c5\c556fe99a21b27f41af1dc6153541ca9.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\c5\c556fe99a21b27f41af1dc6153541ca9.info
+    projectPath: Library\metadata\c5\c556fe99a21b27f41af1dc6153541ca9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\c9\c9363b8223e58e4419df06a89042acc5
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\c9\c9363b8223e58e4419df06a89042acc5
+    projectPath: Library\metadata\c9\c9363b8223e58e4419df06a89042acc5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\c9\c9363b8223e58e4419df06a89042acc5.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\c9\c9363b8223e58e4419df06a89042acc5.info
+    projectPath: Library\metadata\c9\c9363b8223e58e4419df06a89042acc5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\cb\cb2ec691f3f549a49950765e1f11b5b2
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\cb\cb2ec691f3f549a49950765e1f11b5b2
+    projectPath: Library\metadata\cb\cb2ec691f3f549a49950765e1f11b5b2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\cb\cb2ec691f3f549a49950765e1f11b5b2.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\cb\cb2ec691f3f549a49950765e1f11b5b2.info
+    projectPath: Library\metadata\cb\cb2ec691f3f549a49950765e1f11b5b2.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\cc\cc22392a91999cf4abf9322c1ade8bc4
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\cc\cc22392a91999cf4abf9322c1ade8bc4
+    projectPath: Library\metadata\cc\cc22392a91999cf4abf9322c1ade8bc4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\cc\cc22392a91999cf4abf9322c1ade8bc4.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\cc\cc22392a91999cf4abf9322c1ade8bc4.info
+    projectPath: Library\metadata\cc\cc22392a91999cf4abf9322c1ade8bc4.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\cc\cc5b1743aa48f9a4d8faeeb8e153edf7
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\cc\cc5b1743aa48f9a4d8faeeb8e153edf7
+    projectPath: Library\metadata\cc\cc5b1743aa48f9a4d8faeeb8e153edf7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\cc\cc5b1743aa48f9a4d8faeeb8e153edf7.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\cc\cc5b1743aa48f9a4d8faeeb8e153edf7.info
+    projectPath: Library\metadata\cc\cc5b1743aa48f9a4d8faeeb8e153edf7.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ce\ce28218839f23274eb2cd25497c30411
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ce\ce28218839f23274eb2cd25497c30411
+    projectPath: Library\metadata\ce\ce28218839f23274eb2cd25497c30411
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ce\ce28218839f23274eb2cd25497c30411.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ce\ce28218839f23274eb2cd25497c30411.info
+    projectPath: Library\metadata\ce\ce28218839f23274eb2cd25497c30411.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ce\ce4080944716d6041a64cf73f6719d7c
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ce\ce4080944716d6041a64cf73f6719d7c
+    projectPath: Library\metadata\ce\ce4080944716d6041a64cf73f6719d7c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ce\ce4080944716d6041a64cf73f6719d7c.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ce\ce4080944716d6041a64cf73f6719d7c.info
+    projectPath: Library\metadata\ce\ce4080944716d6041a64cf73f6719d7c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ce\ceb373d87659c3d42b4a1db1cfd17ffd
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ce\ceb373d87659c3d42b4a1db1cfd17ffd
+    projectPath: Library\metadata\ce\ceb373d87659c3d42b4a1db1cfd17ffd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ce\ceb373d87659c3d42b4a1db1cfd17ffd.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ce\ceb373d87659c3d42b4a1db1cfd17ffd.info
+    projectPath: Library\metadata\ce\ceb373d87659c3d42b4a1db1cfd17ffd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ce\cebcff19453c87840a590d20cf17b659
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ce\cebcff19453c87840a590d20cf17b659
+    projectPath: Library\metadata\ce\cebcff19453c87840a590d20cf17b659
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ce\cebcff19453c87840a590d20cf17b659.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ce\cebcff19453c87840a590d20cf17b659.info
+    projectPath: Library\metadata\ce\cebcff19453c87840a590d20cf17b659.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\d5\d5c8a977ede1e704e8ae4ecc75718792
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\d5\d5c8a977ede1e704e8ae4ecc75718792
+    projectPath: Library\metadata\d5\d5c8a977ede1e704e8ae4ecc75718792
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\d5\d5c8a977ede1e704e8ae4ecc75718792.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\d5\d5c8a977ede1e704e8ae4ecc75718792.info
+    projectPath: Library\metadata\d5\d5c8a977ede1e704e8ae4ecc75718792.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\d6\d645a978ac31d1d45b1c8a0e4c4f52d2
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\d6\d645a978ac31d1d45b1c8a0e4c4f52d2
+    projectPath: Library\metadata\d6\d645a978ac31d1d45b1c8a0e4c4f52d2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\d6\d645a978ac31d1d45b1c8a0e4c4f52d2.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\d6\d645a978ac31d1d45b1c8a0e4c4f52d2.info
+    projectPath: Library\metadata\d6\d645a978ac31d1d45b1c8a0e4c4f52d2.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\d8\d8c9b7ed8883dd448b256a04c3dfba53
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\d8\d8c9b7ed8883dd448b256a04c3dfba53
+    projectPath: Library\metadata\d8\d8c9b7ed8883dd448b256a04c3dfba53
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\d8\d8c9b7ed8883dd448b256a04c3dfba53.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\d8\d8c9b7ed8883dd448b256a04c3dfba53.info
+    projectPath: Library\metadata\d8\d8c9b7ed8883dd448b256a04c3dfba53.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\d9\d933a73b1519fd04285a31bf0b41ac20
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\d9\d933a73b1519fd04285a31bf0b41ac20
+    projectPath: Library\metadata\d9\d933a73b1519fd04285a31bf0b41ac20
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\d9\d933a73b1519fd04285a31bf0b41ac20.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\d9\d933a73b1519fd04285a31bf0b41ac20.info
+    projectPath: Library\metadata\d9\d933a73b1519fd04285a31bf0b41ac20.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\d9\d97a61b55c6e0d644ab8c9526f352150
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\d9\d97a61b55c6e0d644ab8c9526f352150
+    projectPath: Library\metadata\d9\d97a61b55c6e0d644ab8c9526f352150
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\d9\d97a61b55c6e0d644ab8c9526f352150.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\d9\d97a61b55c6e0d644ab8c9526f352150.info
+    projectPath: Library\metadata\d9\d97a61b55c6e0d644ab8c9526f352150.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\db\dbcd38125760b924695069850f03dbca
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\db\dbcd38125760b924695069850f03dbca
+    projectPath: Library\metadata\db\dbcd38125760b924695069850f03dbca
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\db\dbcd38125760b924695069850f03dbca.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\db\dbcd38125760b924695069850f03dbca.info
+    projectPath: Library\metadata\db\dbcd38125760b924695069850f03dbca.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+    projectPath: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\df\df242d69144ad38408250977eacd42c3
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\df\df242d69144ad38408250977eacd42c3
+    projectPath: Library\metadata\df\df242d69144ad38408250977eacd42c3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\df\df242d69144ad38408250977eacd42c3.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\df\df242d69144ad38408250977eacd42c3.info
+    projectPath: Library\metadata\df\df242d69144ad38408250977eacd42c3.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e1\e133dc6483f772449b08e8a08b6a6ff5
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e1\e133dc6483f772449b08e8a08b6a6ff5
+    projectPath: Library\metadata\e1\e133dc6483f772449b08e8a08b6a6ff5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e1\e133dc6483f772449b08e8a08b6a6ff5.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e1\e133dc6483f772449b08e8a08b6a6ff5.info
+    projectPath: Library\metadata\e1\e133dc6483f772449b08e8a08b6a6ff5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e1\e1a38857405f84b4aa1a52ef82ec95d7
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e1\e1a38857405f84b4aa1a52ef82ec95d7
+    projectPath: Library\metadata\e1\e1a38857405f84b4aa1a52ef82ec95d7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e1\e1a38857405f84b4aa1a52ef82ec95d7.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e1\e1a38857405f84b4aa1a52ef82ec95d7.info
+    projectPath: Library\metadata\e1\e1a38857405f84b4aa1a52ef82ec95d7.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e1\e1e5174061c0f4343bcb7dd8cfa83a12
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e1\e1e5174061c0f4343bcb7dd8cfa83a12
+    projectPath: Library\metadata\e1\e1e5174061c0f4343bcb7dd8cfa83a12
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e1\e1e5174061c0f4343bcb7dd8cfa83a12.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e1\e1e5174061c0f4343bcb7dd8cfa83a12.info
+    projectPath: Library\metadata\e1\e1e5174061c0f4343bcb7dd8cfa83a12.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e2\e2aa4009f870bb44595383aa79425f51
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e2\e2aa4009f870bb44595383aa79425f51
+    projectPath: Library\metadata\e2\e2aa4009f870bb44595383aa79425f51
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e2\e2aa4009f870bb44595383aa79425f51.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e2\e2aa4009f870bb44595383aa79425f51.info
+    projectPath: Library\metadata\e2\e2aa4009f870bb44595383aa79425f51.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e2\e2e20165d614d124683322314e835c12
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e2\e2e20165d614d124683322314e835c12
+    projectPath: Library\metadata\e2\e2e20165d614d124683322314e835c12
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e2\e2e20165d614d124683322314e835c12.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e2\e2e20165d614d124683322314e835c12.info
+    projectPath: Library\metadata\e2\e2e20165d614d124683322314e835c12.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e3\e364f1b181df51c4a8e9cdd3366e46bf
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e3\e364f1b181df51c4a8e9cdd3366e46bf
+    projectPath: Library\metadata\e3\e364f1b181df51c4a8e9cdd3366e46bf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e3\e364f1b181df51c4a8e9cdd3366e46bf.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e3\e364f1b181df51c4a8e9cdd3366e46bf.info
+    projectPath: Library\metadata\e3\e364f1b181df51c4a8e9cdd3366e46bf.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e4\e4c1a7a32c8456d42bc49d2b407c61ed
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e4\e4c1a7a32c8456d42bc49d2b407c61ed
+    projectPath: Library\metadata\e4\e4c1a7a32c8456d42bc49d2b407c61ed
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e4\e4c1a7a32c8456d42bc49d2b407c61ed.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e4\e4c1a7a32c8456d42bc49d2b407c61ed.info
+    projectPath: Library\metadata\e4\e4c1a7a32c8456d42bc49d2b407c61ed.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    projectPath: Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e6\e67a41c96a48a04439afa0fb0734372e
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e6\e67a41c96a48a04439afa0fb0734372e
+    projectPath: Library\metadata\e6\e67a41c96a48a04439afa0fb0734372e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e6\e67a41c96a48a04439afa0fb0734372e.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e6\e67a41c96a48a04439afa0fb0734372e.info
+    projectPath: Library\metadata\e6\e67a41c96a48a04439afa0fb0734372e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e6\e6ec9e6d295d32f4da7710b120ba1704
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e6\e6ec9e6d295d32f4da7710b120ba1704
+    projectPath: Library\metadata\e6\e6ec9e6d295d32f4da7710b120ba1704
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\e6\e6ec9e6d295d32f4da7710b120ba1704.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\e6\e6ec9e6d295d32f4da7710b120ba1704.info
+    projectPath: Library\metadata\e6\e6ec9e6d295d32f4da7710b120ba1704.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    projectPath: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    projectPath: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ef\effd8f6610d1f22499b42b4cfa5a40b0
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ef\effd8f6610d1f22499b42b4cfa5a40b0
+    projectPath: Library\metadata\ef\effd8f6610d1f22499b42b4cfa5a40b0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\ef\effd8f6610d1f22499b42b4cfa5a40b0.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\ef\effd8f6610d1f22499b42b4cfa5a40b0.info
+    projectPath: Library\metadata\ef\effd8f6610d1f22499b42b4cfa5a40b0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\f1\f111d1af346871447bbe2dc4ee7d32d5
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\f1\f111d1af346871447bbe2dc4ee7d32d5
+    projectPath: Library\metadata\f1\f111d1af346871447bbe2dc4ee7d32d5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\f1\f111d1af346871447bbe2dc4ee7d32d5.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\f1\f111d1af346871447bbe2dc4ee7d32d5.info
+    projectPath: Library\metadata\f1\f111d1af346871447bbe2dc4ee7d32d5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\f3\f30637a969e3800479f212c2d29bb3b9
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\f3\f30637a969e3800479f212c2d29bb3b9
+    projectPath: Library\metadata\f3\f30637a969e3800479f212c2d29bb3b9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\f3\f30637a969e3800479f212c2d29bb3b9.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\f3\f30637a969e3800479f212c2d29bb3b9.info
+    projectPath: Library\metadata\f3\f30637a969e3800479f212c2d29bb3b9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\f5\f58d3c5807116b24da3f01a5c7d2aeb0
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\f5\f58d3c5807116b24da3f01a5c7d2aeb0
+    projectPath: Library\metadata\f5\f58d3c5807116b24da3f01a5c7d2aeb0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\f5\f58d3c5807116b24da3f01a5c7d2aeb0.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\f5\f58d3c5807116b24da3f01a5c7d2aeb0.info
+    projectPath: Library\metadata\f5\f58d3c5807116b24da3f01a5c7d2aeb0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+    projectPath: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+    projectPath: Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\metadata\f7\f797031a7c222ef4da3f300bd40c0b6b
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\f7\f797031a7c222ef4da3f300bd40c0b6b
+    projectPath: Library\metadata\f7\f797031a7c222ef4da3f300bd40c0b6b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\f7\f797031a7c222ef4da3f300bd40c0b6b.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\f7\f797031a7c222ef4da3f300bd40c0b6b.info
+    projectPath: Library\metadata\f7\f797031a7c222ef4da3f300bd40c0b6b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\f9\f9ba2ad668e9a2f44b8c87441b82a8ef
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\f9\f9ba2ad668e9a2f44b8c87441b82a8ef
+    projectPath: Library\metadata\f9\f9ba2ad668e9a2f44b8c87441b82a8ef
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\f9\f9ba2ad668e9a2f44b8c87441b82a8ef.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\f9\f9ba2ad668e9a2f44b8c87441b82a8ef.info
+    projectPath: Library\metadata\f9\f9ba2ad668e9a2f44b8c87441b82a8ef.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\fa\fa15427f5c0993b4dba05035bec9d9e1
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\fa\fa15427f5c0993b4dba05035bec9d9e1
+    projectPath: Library\metadata\fa\fa15427f5c0993b4dba05035bec9d9e1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\fa\fa15427f5c0993b4dba05035bec9d9e1.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\fa\fa15427f5c0993b4dba05035bec9d9e1.info
+    projectPath: Library\metadata\fa\fa15427f5c0993b4dba05035bec9d9e1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\fb\fb32bd690fa3d5d40b82e3908c159fa7
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\fb\fb32bd690fa3d5d40b82e3908c159fa7
+    projectPath: Library\metadata\fb\fb32bd690fa3d5d40b82e3908c159fa7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\fb\fb32bd690fa3d5d40b82e3908c159fa7.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\fb\fb32bd690fa3d5d40b82e3908c159fa7.info
+    projectPath: Library\metadata\fb\fb32bd690fa3d5d40b82e3908c159fa7.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\fb\fba50e1304d34014cb87d683186a2b05
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\fb\fba50e1304d34014cb87d683186a2b05
+    projectPath: Library\metadata\fb\fba50e1304d34014cb87d683186a2b05
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\fb\fba50e1304d34014cb87d683186a2b05.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\fb\fba50e1304d34014cb87d683186a2b05.info
+    projectPath: Library\metadata\fb\fba50e1304d34014cb87d683186a2b05.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\fe\fe180593116374c41bd25e78df68a14a
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\fe\fe180593116374c41bd25e78df68a14a
+    projectPath: Library\metadata\fe\fe180593116374c41bd25e78df68a14a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\fe\fe180593116374c41bd25e78df68a14a.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\fe\fe180593116374c41bd25e78df68a14a.info
+    projectPath: Library\metadata\fe\fe180593116374c41bd25e78df68a14a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\fe\fe74f80d959ab854f8c3c3c0915d1159
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\fe\fe74f80d959ab854f8c3c3c0915d1159
+    projectPath: Library\metadata\fe\fe74f80d959ab854f8c3c3c0915d1159
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\fe\fe74f80d959ab854f8c3c3c0915d1159.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\fe\fe74f80d959ab854f8c3c3c0915d1159.info
+    projectPath: Library\metadata\fe\fe74f80d959ab854f8c3c3c0915d1159.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\fe\fe7a7750afc8e2b44a406ff4230ad252
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\fe\fe7a7750afc8e2b44a406ff4230ad252
+    projectPath: Library\metadata\fe\fe7a7750afc8e2b44a406ff4230ad252
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\fe\fe7a7750afc8e2b44a406ff4230ad252.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\fe\fe7a7750afc8e2b44a406ff4230ad252.info
+    projectPath: Library\metadata\fe\fe7a7750afc8e2b44a406ff4230ad252.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\fe\feca4eb3608344b42ae124420a2b64b9
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\fe\feca4eb3608344b42ae124420a2b64b9
+    projectPath: Library\metadata\fe\feca4eb3608344b42ae124420a2b64b9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\metadata\fe\feca4eb3608344b42ae124420a2b64b9.info
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\metadata\fe\feca4eb3608344b42ae124420a2b64b9.info
+    projectPath: Library\metadata\fe\feca4eb3608344b42ae124420a2b64b9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\ProjectSettings.asset
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ProjectSettings.asset
+    projectPath: Library\ProjectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\ScriptMapper
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\ShaderCache\0\06e8a8b7653a71bbff5ba0e0d32b4485.bin
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ShaderCache\0\06e8a8b7653a71bbff5ba0e0d32b4485.bin
+    projectPath: Library\ShaderCache\0\06e8a8b7653a71bbff5ba0e0d32b4485.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\ShaderCache\1\1c209baf44edd79ee33d2d6e22e10c88.bin
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ShaderCache\1\1c209baf44edd79ee33d2d6e22e10c88.bin
+    projectPath: Library\ShaderCache\1\1c209baf44edd79ee33d2d6e22e10c88.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\ShaderCache\6\6c64b0a2ffcf3c05b650d28864f294f2.bin
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ShaderCache\6\6c64b0a2ffcf3c05b650d28864f294f2.bin
+    projectPath: Library\ShaderCache\6\6c64b0a2ffcf3c05b650d28864f294f2.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\ShaderCache\6\6f328c757019a91903cfae9f638ad3f6.bin
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ShaderCache\6\6f328c757019a91903cfae9f638ad3f6.bin
+    projectPath: Library\ShaderCache\6\6f328c757019a91903cfae9f638ad3f6.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\ShaderCache\7\718d6d4e28ccd5a7c4590632b29a5330.bin
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ShaderCache\7\718d6d4e28ccd5a7c4590632b29a5330.bin
+    projectPath: Library\ShaderCache\7\718d6d4e28ccd5a7c4590632b29a5330.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\ShaderCache\7\7c0327b0ca1536bbbc37e1e4d72a9e95.bin
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ShaderCache\7\7c0327b0ca1536bbbc37e1e4d72a9e95.bin
+    projectPath: Library\ShaderCache\7\7c0327b0ca1536bbbc37e1e4d72a9e95.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\ShaderCache\8\8954d6415974260457e3bbce81663222.bin
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ShaderCache\8\8954d6415974260457e3bbce81663222.bin
+    projectPath: Library\ShaderCache\8\8954d6415974260457e3bbce81663222.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\ShaderCache\8\8b6a38aca9263fcd0f874d732768b38c.bin
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\ShaderCache\8\8b6a38aca9263fcd0f874d732768b38c.bin
+    projectPath: Library\ShaderCache\8\8b6a38aca9263fcd0f874d732768b38c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\SpriteAtlasDatabase.asset
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\SpriteAtlasDatabase.asset
+    projectPath: Library\SpriteAtlasDatabase.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\StateCache\Hierarchy\7ef940-mainStage.json
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\StateCache\Hierarchy\7ef940-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\7ef940-mainStage.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\Library\StateCache\Hierarchy\e7e62b-mainStage.json
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\StateCache\Hierarchy\e7e62b-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\e7e62b-mainStage.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Library\StateCache\SceneView\0b0c35-mainStage.json
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Library\StateCache\SceneView\0b0c35-mainStage.json
+    projectPath: Library\StateCache\SceneView\0b0c35-mainStage.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Hidden Packet\ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\ProjectSettings\ProjectVersion.txt
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\ProjectSettings\TagManager.asset
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Hidden Packet\Temp\UnityLockfile
+    fullPath: C:\Users\Art3mis\Documents\Hackathon\hidden-packet\Hidden Packet\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
